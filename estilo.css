@@ -45,7 +45,6 @@ h1{
 .contenedor {
   width: 90%;
   height: 80vh;
-  border: solid burlywood 3px;
   margin: 20px auto;
 
   display: grid;
@@ -92,32 +91,5 @@ footer{
   width: 100%;
   margin-bottom: 50px;
   line-height: 1,5;
-}
-.cards {
-  width: 100%;
-  height: auto;
-  display: flex;
-  gap: 4rem;
-  max-width: 1100px;
-  margin: 50px;
-  padding: 50px;
-  display: inline-block;
-  align-items: flex-start;
-  position: relative;
-}
-.card{
-  border: 18px;
-  display: inline-block;
-  display: flex;
-  background-color: beige;
-  box-shadow: inset;
-  text-align: justify;
-  color: aliceblue;
-  width: 300px;
-  border-radius: 15px;
-  align-content: space-around;
-}
-.producto1 {
-  background-image: url(./Header/lampara\ 1.jpeg)
 }
 
